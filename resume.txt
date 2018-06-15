@@ -3,9 +3,14 @@ Fadhl Deen
 fdeen4@montgomerycollege.edu
 
 Education
-computer science,
-maryland, 2002
+Computers,
+UMD, 2002Computer Science,
+Towson, 2003
 
+Experience
+Doctor
+John Hopkins, June 2004-June 2005
+ -surgery
 
 Skills
-hhd, hihg
+php, high
